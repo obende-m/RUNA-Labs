@@ -1,0 +1,25 @@
+{
+  "testimonials": [
+    {
+      "id": "lumina-global-cto",
+      "quote": "RUNA LABS transformed our digital presence from a standard listing site to a premium investment tool.",
+      "author": "CTO, Lumina Global",
+      "company": "Lumina Global",
+      "status": "published"
+    },
+    {
+      "id": "nexus-education",
+      "quote": "The EduNexus platform reduced our administrative overhead by 40% in just three months. Their engineering team is world-class.",
+      "author": "VP of Technology, NexusEd",
+      "company": "NexusEd",
+      "status": "published"
+    },
+    {
+      "id": "veloce-fashion",
+      "quote": "Our conversion rates tripled after RUNA rebuilt our commerce platform. The 300ms load times are unmatched in luxury e-commerce.",
+      "author": "CEO, Veloce Fashion Group",
+      "company": "Veloce Fashion Group",
+      "status": "published"
+    }
+  ]
+}

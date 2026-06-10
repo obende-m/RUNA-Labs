@@ -1,0 +1,36 @@
+{
+  "members": [
+    {
+      "id": "dr-elias-thorne",
+      "name": "Dr. Elias Thorne",
+      "role": "Founder & Chief Architect",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDv6Mt1-c52r6YULWk_u7Pr701J5icjYBP-HhDwWl1vSO11zFJ_bNEyd6wGbrR9KK9seoYoSf2lTZSlss8HIEczbrdcsV5joS7zONj4YWzqTwfUP-nvXO3qMG20BoxsSz2PbdCxGL6HQjEjheZCwKV0sUuf938RFUsaD8rn2Ae9j4NqlHBeX0hZ3RSPLWD5v4Td3q2A3J6ZWJGer5o5gqyKVX4AR_moMnd5E8kyPUzAQfXfI9NlIb8-TozidNfRTZvFona6MtUtel0",
+      "accentColor": "secondary",
+      "status": "published"
+    },
+    {
+      "id": "sarah-chen",
+      "name": "Sarah Chen",
+      "role": "VP of Neural Engineering",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCWfJh4a3vW6AVJ6zbcCeiGJGydHLj6A5usrljopzQUBMbGpbqOEwh33G1sZRFQt3cWEV9_gyQuwK63Tj81VSqxXaPbDV1Hy8HriVufUUtQiHcTj1XqDizHJvk8TQQXsxuN4d0oJWgfTG1XfiTjKP06vusxPo7sMreyifBA1M8REPWEsi_-htvAsw1KFlR0qgjzjSx8zUJTQi7Nrecy3ZUQnR3aMUSA7JB-UNNClI2_OQ0MCmS9wR6ZWOtr9ktG478g7kSLmO8O1Js",
+      "accentColor": "tertiary",
+      "status": "published"
+    },
+    {
+      "id": "marcus-vane",
+      "name": "Marcus Vane",
+      "role": "Head of Design Systems",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCekP_aPzmPdbJuLntkHqfs9_gfVZ3LuQhzjUOgBidAFqmMo8pbNd93SluKTstbpSu-JY2k0Ja_frLIobFO3CpEbeF9psxj3NIq6PeHVzl86WMFe8rPzH34zaVAMwhRdnFjf1VWwqIPJLQLEbaTvtELuIhNGC4GnrhlmLUHuUxA6v5_F6bz8Tir81sF_IlokMm16yq0gN9rLb2P2YFptcgSbdZO79PwOYlY1Iz9q8eFVYgY6ssPAixF75mOT_OxKYV7t4NbgU__JoU",
+      "accentColor": "primary",
+      "status": "published"
+    },
+    {
+      "id": "aria-sterling",
+      "name": "Aria Sterling",
+      "role": "Director of Strategy",
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuDeZSwSgc-WMOzh_w_7fQ2krOIZuiEawKpsf3SCceE5ZEDrxGYMRaairrsmwL9gR121WPEm6GMLm70wzMLAVdEEuWNsQZ9yo-_BzBpaqpUHkHLTd9Uyo2Y4QlBbCN03LtDIceOCgUM7Etbh4z16WuuUxKR9SRDIImTC2oERrS8M7exYLrR_jSIbceR8jgFnvKZ4EuFmmeXdyU3mNYg-7mNfWA_j__-KFCF0rftprBZdDZANmnyMiw1JhI01t0GoD9U84zWO29C1zCw",
+      "accentColor": "secondary",
+      "status": "published"
+    }
+  ]
+}

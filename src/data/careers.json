@@ -1,0 +1,43 @@
+{
+  "positions": [
+    {
+      "id": "senior-backend-architect",
+      "title": "Senior Backend Architect",
+      "department": "Engineering",
+      "location": "Remote / London",
+      "type": "Full-time",
+      "icon": "terminal",
+      "iconBg": "primary",
+      "description": "Lead the architecture and development of distributed backend systems powering our enterprise intelligence platforms. You will work with microservices, event-driven architectures, and real-time data pipelines.",
+      "requirements": ["8+ years backend development", "Expertise in Go, Rust, or Java", "Distributed systems experience", "Cloud platform mastery (AWS/GCP)"],
+      "status": "published",
+      "createdAt": "2024-11-01T10:00:00Z"
+    },
+    {
+      "id": "lead-ai-research-scientist",
+      "title": "Lead AI Research Scientist",
+      "department": "Engineering",
+      "location": "Zurich",
+      "type": "Full-time",
+      "icon": "analytics",
+      "iconBg": "secondary",
+      "description": "Drive cutting-edge research in machine learning and neural network architectures. Lead a team of researchers developing next-generation AI models for enterprise applications.",
+      "requirements": ["PhD in ML/AI or related field", "Published research in top venues", "Experience with large-scale model training", "Team leadership experience"],
+      "status": "published",
+      "createdAt": "2024-10-20T10:00:00Z"
+    },
+    {
+      "id": "senior-product-designer",
+      "title": "Senior Product Designer",
+      "department": "Design",
+      "location": "Remote",
+      "type": "Full-time",
+      "icon": "palette",
+      "iconBg": "tertiary",
+      "description": "Design intuitive and beautiful interfaces for complex enterprise software. Create design systems that bridge the gap between sophisticated technology and human-centered experiences.",
+      "requirements": ["6+ years product design", "Strong systems thinking", "Enterprise/B2B experience", "Proficiency in Figma"],
+      "status": "published",
+      "createdAt": "2024-10-15T10:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "projects": [
+    {
+      "id": "edunexus-enterprise",
+      "slug": "edunexus-enterprise",
+      "title": "EduNexus Enterprise",
+      "description": "A comprehensive management ecosystem designed for higher education institutions, streamlining administration, student tracking, and financial reporting into a unified, high-performance interface.",
+      "category": "EdTech",
+      "tags": ["EdTech", "SaaS"],
+      "techStack": ["Next.js", "PostgreSQL", "Redis", "AWS"],
+      "metrics": [
+        { "value": "40%", "label": "Admin Efficiency Increase" },
+        { "value": "120k+", "label": "Active Students Managed" }
+      ],
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCO_LWmfU9xSV1jgIWBBOUrn49pO-Er3atylBQbbh9d2B0cvcqsbPLquTlaxMArQUUj_qz5wsIATZe0-QS14VyQc7mKtz6PudbyKSbLv_rQpwq6c4iUEmKi3Zhp_yMz0Pqs5UsNeAebLmFeh_IZ3qX01BNtJRIiBQvi6H2ipn2ec8Vn7dE-ZF324RPMQrYaRdpunHvBUkSyjVi22eolDijxQF5atJwcQiNP61b2sANTpe908aTZqXFGQfxUumv5zt507X6sj_veoDY",
+      "mobileImage": "https://lh3.googleusercontent.com/aida-public/AB6AXuBjB-Tenj3dkUp7ouGmZstxKvjcmgI1DblN_0QHkYfu7BOctpUq3vl53Ar4-ZN3UGZNNQwPImbywkb1tYZo3KjtrdWWWRmJ1zCfm1wTmPR-PcQ_da3tmfjlnGqGBEd05BdlYTp3Y10NbyP1Lub6UPsEKlfFCOO-g7QtKNo7vZ1NcgtnnCmzC6PMKTsvsXh7ZNQPDV-6KRHWNteQoFyV-7_4TfBt8_PXNpZyKLlgM5IUIrqc_O8qcDwnkbRYLZLPFEB-V5AB7ChwUCU",
+      "featured": true,
+      "status": "published",
+      "createdAt": "2024-06-15T10:00:00Z"
+    },
+    {
+      "id": "lumina-realty",
+      "slug": "lumina-realty",
+      "title": "Lumina Realty",
+      "description": "Revolutionizing high-end property search with 3D virtual tours, AI-powered valuation models, and a seamless global transaction layer.",
+      "category": "PropTech",
+      "tags": ["PropTech", "Marketplace"],
+      "techStack": ["Three.js", "Python/Django", "Mapbox"],
+      "metrics": [],
+      "testimonial": {
+        "quote": "RUNA LABS transformed our digital presence from a standard listing site to a premium investment tool.",
+        "author": "CTO, Lumina Global"
+      },
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBUEPgVfmK7Ox5Ouh0w3byBBxbs1ZK8bLSiNric8tgBFyzneJSfPcrgB0CTpxqjlaVmHD_dK9wrd6hB8MQWu0aX4V99vvLVeieUvwq0nqWdxpt3kupA1QwVsx64iMOv061IeiCXSzURq98Ui0bxZFuJwX9DgUVqE667YDkWWIO-W8lA6uuX0Pr4rjR7KJxh-FZ-blWiJpS7uZIRsBaaGp0d2FCu6B1tI_FyhWKKipe4kWd8ofGFUIFiS6skoghgNYRJnMstJ7so-1U",
+      "featured": true,
+      "status": "published",
+      "createdAt": "2024-05-10T10:00:00Z"
+    },
+    {
+      "id": "quantx-fintech",
+      "slug": "quantx-fintech",
+      "title": "QuantX Fintech",
+      "description": "Institutional-grade trading terminal and asset management dashboard featuring sub-millisecond latency and advanced cryptographic security.",
+      "category": "FinTech",
+      "tags": ["FinTech", "Dashboard"],
+      "techStack": ["React", "Rust", "WebSocket", "AWS"],
+      "metrics": [
+        { "value": "$4.2B", "label": "Volume Processed" },
+        { "value": "99.99%", "label": "Uptime SLA" }
+      ],
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuA57v5wzwQ1xZlVa1hXn7MY0zqruaA7QZVkeDZcnglij2ggMjzb3AgObh3ddBXeJ-sFmV4JDugTwBBs07r7J6rJ_PlIJOmNyR4iysM0NcdQQiUvZzcRR0CYjVM2t2wrudV2_QruAwAuptm1AZQQ7qKHVAafK1xo_pNfkyBrt0zV6iPBS--smXeUdSlrlZrumzsqHnly2J-lZvFJ2ud23_FxjCAMhsNCYxw22a6wiIf83O3sGHwYKTVIPPdpYvF97zH2FpihB0Flbhw",
+      "featured": false,
+      "status": "published",
+      "createdAt": "2024-04-20T10:00:00Z"
+    },
+    {
+      "id": "neuralsupport-ai",
+      "slug": "neuralsupport-ai",
+      "title": "NeuralSupport AI",
+      "description": "LLM-powered automation that handles 80% of routine inquiries with human-level empathy.",
+      "category": "AI",
+      "tags": ["AI", "Customer Support"],
+      "techStack": ["Python", "LangChain", "FastAPI"],
+      "metrics": [
+        { "value": "80%", "label": "Automation Rate" },
+        { "value": "50k+", "label": "Logs Processed/hr" }
+      ],
+      "image": "",
+      "featured": false,
+      "status": "published",
+      "createdAt": "2024-03-15T10:00:00Z"
+    },
+    {
+      "id": "veloce-commerce",
+      "slug": "veloce-commerce",
+      "title": "Veloce Commerce",
+      "description": "Headless commerce solution for luxury brands, focusing on cinematic visuals and 300ms page loads.",
+      "category": "E-commerce",
+      "tags": ["E-commerce", "Headless CMS"],
+      "techStack": ["Next.js", "Shopify", "Contentful"],
+      "metrics": [
+        { "value": "300ms", "label": "Page Load Time" },
+        { "value": "3x", "label": "Conversion Increase" }
+      ],
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCVxf3JxzsGMhd7EzDeDigldXc-xK8Iat-YHK3KN848yZtdk7SmO60KtDQJzDnJRo7HoRIXbVYX582gtM_ZJ04eVATZas6ctg0U6JA0QfVt_xV9f--aOCHMu1x3dj_Rf8FKOUsfb_tw_rEbTvFeYH1khErqAcy9WAJS0WMPzwPZGIp1rV8e4hvJLIfbDAOIxChaOn5j5pK5ehRkWrVGHBUAuUvdBPKfzRmurWClWJ5kdZRHBu9sBod91WAGu9guU0mh1DQF4nbGN8s",
+      "featured": false,
+      "status": "published",
+      "createdAt": "2024-02-10T10:00:00Z"
+    },
+    {
+      "id": "vertex-global",
+      "slug": "vertex-global",
+      "title": "Vertex Global",
+      "description": "A multi-regional corporate portal serving 15 countries, integrating localized content systems and complex stakeholder portals.",
+      "category": "Enterprise",
+      "tags": ["Enterprise", "Multi-language", "SSO Integration"],
+      "techStack": ["Next.js", "Strapi", "AWS", "Auth0"],
+      "metrics": [
+        { "value": "15", "label": "Countries Served" },
+        { "value": "99.9%", "label": "Uptime" }
+      ],
+      "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCyUJv8wXJFGfkWQcp8IcVJ6O8C1PPbN9bc-ThX_kZN1qUeoEw-Q8kNl6BetPSAFq4AAbziu3WmVHZunNEh_KxdZ3j6tAj1wAlVLU3Y2Ppri9U3d_EAXIi_C1YJITZCqJ2gdqhpjHgbRj5ryVGVo6mJ-ZOqpFfeI_x7m3G8VPX_Gqs_H5Qfuq1Ipljp1AEjJCp9HiO0zO1Jtaop8y5nMW4Jl6qPEySOQF7sTDvzcVwqv6be12Q9V8iDD7k7x853ncWSQBR7txsH3NQ",
+      "image2": "https://lh3.googleusercontent.com/aida-public/AB6AXuB3m8-nfGV8FDDPbkEOSCLcJG42Vu3Sn69XmSBcsSMtq9AyQK-gT9dpmbnzUIKyCm3sLYCHDj6qwu1DQXkVVG5ElVohVyRMtIuMKEou7C6L1mUvo1YJQsOVtDUv_43yjEWAwnS6aPkL37E7I09e9AKVIeOQMkXVTRezkUtCV4RhhFGTz9qhfjoPxXpRHGHW5uLe3iMlUs_ZywpE2tvg9kBDS9fTYkoHAMzKUzXIi3KHTZKJDhy8zoDFDc4l_TKXfpUB8DPju6Ot268",
+      "featured": false,
+      "status": "published",
+      "createdAt": "2024-01-05T10:00:00Z"
+    }
+  ]
+}
